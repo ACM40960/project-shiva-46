@@ -65,8 +65,7 @@ We have collected 2000 images containing a diverse representation of both weed a
   * For detection you need weights for CNN.
   * These weights file is present in the below link and must be placed in the below mentioned path in your local system :
   *  -->WeedDetectionSystem-->testing_and_detection-->data-->weights.
-  ## Note
-
+  ## Note:
 **Important**: We have already generated the weight file and placed it in the designated [Google Drive link](link_here). This step was taken to minimize the training time required. If you decide not to conduct the training, you can utilize this file. Please be aware that training this model typically takes 6-7 hours.
 
   * [weights here](https://drive.google.com/file/d/1AOxCaQqy_AY33fjcJWxemu5iwIJ4jvC3/view?usp=sharing)
