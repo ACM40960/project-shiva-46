@@ -77,3 +77,9 @@ We have collected 2000 images containing a diverse representation of both weed a
 
 🔍 During the training of the model based on the <span style="color: #e74c3c;">Darknet-53</span> architecture, we observed a <span style="color: #27ae60;">low loss curve</span> function. This indicates that the model is <span style="color: #27ae60;">effectively learning</span> from the training data. A low loss curve suggests that the model's predictions are getting closer to the <span style="color: #27ae60;">actual target values</span> (ground truth) as training progresses.
 
+
+### 🔗 References:
+
+1. Redmon, J. (2015, June 8). You Only Look Once: Unified, Real-Time Object Detection. [arXiv:1506.02640](https://arxiv.org/abs/1506.02640).
+2. Wang, C. Y. (2022, July 6). YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors. [arXiv:2207.02696](https://arxiv.org/abs/2207.02696).
+
