@@ -80,5 +80,5 @@ We have collected 2000 images containing a diverse representation of both weed a
 
 1. Redmon, J. (2015, June 8). You Only Look Once: Unified, Real-Time Object Detection. [arXiv:1506.02640](https://arxiv.org/abs/1506.02640).
 2. Wang, C. Y. (2022, July 6). YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors. [arXiv:2207.02696](https://arxiv.org/abs/2207.02696).
-3. Documentation on [DARKNET]( https://pjreddie.com/darknet/)
+3. Alexey. “AlexeyAB/Darknet.” GitHub, 21 Aug. 2020, [DARKNET](https://github.com/AlexeyAB/darknet)
 
