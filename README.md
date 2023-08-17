@@ -20,7 +20,7 @@ Develop and optimize a tailored object detection model by seamlessly integrating
 <br>
 
 
-## DataSet:
+## Dataset:
 
 We have collected 2000 images containing a diverse representation of both weed and crop. This dataset includes prior information regarding bounding boxes and  class labels,  recorded within a dedicated text file. This text file provides essential information, including class labels, Normalized coordinates (X and Y), as well as dimensions (Width and Length).
 
@@ -28,10 +28,10 @@ We have collected 2000 images containing a diverse representation of both weed a
 <br>
 
 
-## Setup:
+# Setup:
 
 
-  # This Repository is divided into two parts:
+  ## This Repository is divided into two parts:
   
     1. Training 
     2. Performig detection 
