@@ -53,18 +53,19 @@ We have collected 2000 images containing a diverse representation of both weed a
    
  [Anaconda here](https://www.anaconda.com/download)
 
- * Next download and save the testing_and_detection folder to your local system from google drive present under WeedDetectionSystem folder. 
+ * Next download and save the `testing_and_detection` folder to your local system from google drive present under `WeedDetection` folder. 
    
- * Open Anaconda launcher and upload the folder "testing_and_detection" here.
+ * Open Anaconda launcher and upload the folder `testing_and_detection` here.
    # How?
    * Select the "file option" --> Open from path --> provide path --> Open.
    * path example: C:\Users\SHIVAAMRUTH UPPALA\OneDrive\Desktop\WeedDetectionSystem\testing_and_detection.
 
 ## Performig detection:
   
-  * For detection you need weights for network
+  * For detection you need weights for CNN.
   * These weights file is present in the below link and must be placed in the below mentioned path in your local system :
-  *  -->WeedDetectionSystem-->testing_and_detection-->data-->weights. 
+  *  -->WeedDetectionSystem-->testing_and_detection-->data-->weights.
+  *  Note: We have already produced the weight file and placed it within the designated Google Drive link. This measure was taken to avoid the training duration. Use this file, If you choose not to do the training because training this model would take 6-7hours.
   * [weights here](https://drive.google.com/file/d/1AOxCaQqy_AY33fjcJWxemu5iwIJ4jvC3/view?usp=sharing)
   * open [Weed_Image_Recognition.ipynb] under WeedDetection-->testing_and_detection-->detection and run each cell for results. 
 
