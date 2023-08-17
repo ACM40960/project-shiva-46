@@ -28,10 +28,8 @@ We have collected 2000 images containing a diverse representation of both weed a
 ## Setup:
 
 
-  # How to use this repo?
-
-  This Repository is diveded in two part:-
-
+  # This Repository is diveded in two part:
+  
     1. Training 
     2. Performig detection using pre train model
         - Using jupyter and openCV 
@@ -40,9 +38,9 @@ We have collected 2000 images containing a diverse representation of both weed a
  
 ## Training:-
  
- * For traning you have to the git clone repo and copy all files from `WeedDetectionSystem` folder and paste it in google drive.
+ * First, git clone the repository and copy all the files from `WeedDetectionSystem` folder and upload it in google drive.
 
- * Now, from drive open the  main.ipynb file where you will find all documentation regarding training the model.
+ * Now, in the drive open the main.ipynb file, where you will find all documentation regarding training the model.
 
 <br>
 
@@ -52,13 +50,11 @@ We have collected 2000 images containing a diverse representation of both weed a
    
  [Anaconda here](https://www.anaconda.com/blog/anaconda-individual-edition-2021-11)
 
- * Inside the WeedDetectionSystem folder , you will find testing_and_detection folder. Download this folder and save it in your local system. 
-
- * Open Anaconda and upload the folder  testing_and_detection.
-   Open Anaconda launcher : 
-
-   Select the "file option" --> Open from path --> provide path --> Open. 
-
+ * Next download and save the testing_and_detection folder to your local system from google drive. testing_and_detection folder is present inside the WeedDetectionSystem folder.
+   
+ * Open Anaconda launcher and upload the folder "testing_and_detection" here.
+   # How?
+   Select the "file option" --> Open from path --> provide path --> Open.
    path ex: C:\Users\SHIVAAMRUTH UPPALA\OneDrive\Desktop\WeedDetectionSystem\testing_and_detection.
 
 
