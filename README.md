@@ -62,7 +62,7 @@ We have collected 2000 images containing a diverse representation of both weed a
   * For detection you need weights for network.
   * These weights file is present in the below link and must be placed in the below mentioned path in your local system :
   *  -->WeedDetectionSystem-->testing_and_detection-->data-->weights. 
- [weights here](https://drive.google.com/open?id=1-Aam2D-fqnwecbeHwa4rtzxtNjwcDkP6)
+  * [weights here](https://drive.google.com/open?id=1-Aam2D-fqnwecbeHwa4rtzxtNjwcDkP6)
   * open [Weed_Image_Recognition.ipynb] under WeedDetection-->testing_and_detection-->detection and run each cell for results. 
 
 
