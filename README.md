@@ -5,7 +5,7 @@
 
 ## 📖 Introduction
 
-In modern agriculture, optimizing crop yield is vital amidst weed-related challenges. We tackle this by innovatively employing <span style="color: #e74c3c;">🧠 CNNs</span> and <span style="color: #e74c3c;">🌌 Darknet</span> to distinguish crops from weeds. 
+In modern agriculture, optimizing crop yield is vital amidst weed-related challenges. We tackle this by innovatively employing <span style="color: #e74c3c;">🧠 CNNs</span> and <span style="color: #e74c3c;">🌌 Darknet</span> to distinguish crops from weeds
 
 
 <br>
