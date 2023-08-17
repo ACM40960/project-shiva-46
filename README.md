@@ -2,7 +2,7 @@
 <p align="center"> DINESH ETUKURU 20200242 || SHIVAAMRUTH UPPALA 22201745 </p>
 
 ![]
-(https://github.com/ACM40960/project-shiva-46/blob/main/images/images.txt)
+(https://github.com/ACM40960/project-shiva-46/blob/main/images/weedimg.jpeg)
 <br>
 
 ## Description:
