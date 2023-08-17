@@ -28,7 +28,7 @@ We have collected 2000 images containing a diverse representation of both weed a
 <br>
 
 
-# Setup:
+# Setup :
 
 
   ## This Repository is divided into two parts:
