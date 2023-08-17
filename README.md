@@ -45,30 +45,28 @@ We have collected 2000 images containing a diverse representation of both weed a
 <br>
  
 ### 🚀 1) Training:
- 
-* First, <span style="color: #e74c3c;">🚀 git clone</span> the repository and copy all the files from the `WeedDetection` folder and upload them to Google Drive.
-* Now, in Google Drive, open the `main.ipynb` file, where you will find comprehensive documentation regarding training the model.
+   * First, <span style="color: #e74c3c;">🚀 git clone</span> the repository and copy all the files from the `WeedDetection` folder and upload them to Google Drive.
+   * Now, in Google Drive, open the `main.ipynb` file, where you will find comprehensive documentation regarding training the model.
 <br>
 
 ### 🛠️ Setting up the Environment:
-
- * First of all you need anaconda, if you don't have click below for the installation.
+  * First of all you need anaconda, if you don't have click below for the installation.
    
  [Anaconda here](https://www.anaconda.com/download)
 
- * Next download and save the `testing_and_detection` folder to your local system from google drive present under `WeedDetection` folder. 
+    * Next download and save the `testing_and_detection` folder to your local system from google drive present under `WeedDetection` folder. 
    
  * Open Anaconda launcher and upload the folder `testing_and_detection` here.
    ## How?
-   * Select the "file option" --> Open from path --> provide path --> Open.
-   * path example: C:\Users\SHIVAAMRUTH UPPALA\OneDrive\Desktop\WeedDetectionSystem\testing_and_detection.
+     * Select the "file option" --> Open from path --> provide path --> Open.
+     * path example: C:\Users\SHIVAAMRUTH UPPALA\OneDrive\Desktop\WeedDetectionSystem\testing_and_detection.
 
 ### 🔎 2) Performing Detection:
-  
-  * For detection, you need weights for <span style="color: #e74c3c;">🧠 CNN</span>.
-  * These weights file must be placed in the below mentioned path in your local system once the model is trained:
-  * WeedDetection-->testing_and_detection-->data-->weights.
-  * Now, open `Weed_Image_Recognition.ipynb` under WeedDetection-->testing_and_detection-->detection and run each cell for results. 
+   
+   * For detection, you need weights for <span style="color: #e74c3c;">🧠 CNN</span>.
+   * These weights file must be placed in the below mentioned path in your local system once the model is trained:
+   * WeedDetection-->testing_and_detection-->data-->weights.
+   * Now, open `Weed_Image_Recognition.ipynb` under WeedDetection-->testing_and_detection-->detection and run each cell for results. 
  ### 📜 Note:
    **Important**: We have already generated the weight file and placed it in the designated [Google Drive link](https://drive.google.com/file/d/1AOxCaQqy_AY33fjcJWxemu5iwIJ4jvC3/view?usp=sharing). This step was taken to minimize the training time required. If you decide not to conduct the training, you can utilize this file. Please be aware that training this model typically takes 6-7 hours.
 
