@@ -44,8 +44,7 @@ We have collected 2000 images containing a diverse representation of both weed a
 
 <br>
 
-### Setting up environment:-
-
+### Setting up environment:
  * First of all you need anaconda, if you don't have click below for the installation.
    
  [Anaconda here](https://www.anaconda.com/blog/anaconda-individual-edition-2021-11)
