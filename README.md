@@ -1,6 +1,6 @@
 <p align="center"> AI IMAGE RECOGNITION - WEED DETECTION </p>
-<p align="center"> DINESH ETUKURU 20200242 22201745 SHIVAAMRUTH UPPALA </p>
-
+<p align="center"> DINESH ETUKURU 20200242 || SHIVAAMRUTH UPPALA 22201745 </p>
+![](https://github.com/ravirajsinh45/Crop_and_weed_detection/blob/master/performing_detection/data/detection/detection.jpg)
 <br>
 
 ## Description:
