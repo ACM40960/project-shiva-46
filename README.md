@@ -1,5 +1,7 @@
-<h1 align="center">AI Image Recognition - Weed Detection</h1>
-<h3 align="center">Dinesh Etukuru 20200242 || Shivaamruth Uppala 22201745</h3>
+<div align="center">
+  <h1 style="color: #3498db;">🌱 AI Image Recognition - Weed Detection 🌿</h1>
+  <h3 style="color: #e74c3c;">Dinesh Etukuru 20200242 || Shivaamruth Uppala 22201745</h3>
+</div>
 
 ## Introduction:
 
