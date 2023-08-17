@@ -55,7 +55,7 @@ We have collected 2000 images containing a diverse representation of both weed a
 
  * You need anaconda for this, if you don't have click below 
 
- *  [click here](httkaggps://www.anaconda.com/products/individual)
+   [click here](httkaggps://www.anaconda.com/products/individual)
 
  * Inside the WeedDetectionSystem folder , you will find testing_and_detection folder. Download this folder and save it in your local system. 
 
