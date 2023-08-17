@@ -66,7 +66,7 @@ We have collected 2000 images containing a diverse representation of both weed a
   * These weights file must be placed in the below mentioned path in your local system once the model is trained:
   *  -->WeedDetectionSystem-->testing_and_detection-->data-->weights.
   ## Note:
-**Important**: We have already generated the weight file and placed it in the designated [Google Drive link](https://drive.google.com/file/d/1AOxCaQqy_AY33fjcJWxemu5iwIJ4jvC3/view?usp=sharing)). This step was taken to minimize the training time required. If you decide not to conduct the training, you can utilize this file. Please be aware that training this model typically takes 6-7 hours.
+**Important**: We have already generated the weight file and placed it in the designated [Google Drive link](https://drive.google.com/file/d/1AOxCaQqy_AY33fjcJWxemu5iwIJ4jvC3/view?usp=sharing) This step was taken to minimize the training time required. If you decide not to conduct the training, you can utilize this file. Please be aware that training this model typically takes 6-7 hours.
   * open [Weed_Image_Recognition.ipynb] under WeedDetection-->testing_and_detection-->detection and run each cell for results. 
 
 
