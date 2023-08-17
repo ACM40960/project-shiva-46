@@ -39,7 +39,7 @@ We have collected 2000 images containing a diverse representation of both weed a
 
 <br>
  
-## Training:-
+## 1)Training:-
  
  * First, git clone the repository and copy all the files from `WeedDetection` folder and upload it in google drive.
 
@@ -56,11 +56,11 @@ We have collected 2000 images containing a diverse representation of both weed a
  * Next download and save the `testing_and_detection` folder to your local system from google drive present under `WeedDetection` folder. 
    
  * Open Anaconda launcher and upload the folder `testing_and_detection` here.
-   ## How?
+   ### How?
    * Select the "file option" --> Open from path --> provide path --> Open.
    * path example: C:\Users\SHIVAAMRUTH UPPALA\OneDrive\Desktop\WeedDetectionSystem\testing_and_detection.
 
-## Performig detection:
+## 2) Performig detection:
   
   * For detection you need weights for CNN.
   * These weights file must be placed in the below mentioned path in your local system once the model is trained:
