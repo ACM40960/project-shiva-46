@@ -28,7 +28,7 @@ We have collected 2000 images containing a diverse representation of both weed a
 ## Setup:
 
 
-  # This Repository is diveded in two part:
+  # This Repository is divided into two parts:
   
     1. Training 
     2. Performig detection using pre train model
@@ -45,25 +45,24 @@ We have collected 2000 images containing a diverse representation of both weed a
 <br>
 
 ### Setting up environment:
+
  * First of all you need anaconda, if you don't have click below for the installation.
    
  [Anaconda here](https://www.anaconda.com/blog/anaconda-individual-edition-2021-11)
 
- * Next download and save the testing_and_detection folder to your local system from google drive. testing_and_detection folder is present inside the WeedDetectionSystem folder.
+ * Next download and save the testing_and_detection folder to your local system from google drive present under WeedDetectionSystem folder. 
    
  * Open Anaconda launcher and upload the folder "testing_and_detection" here.
    # How?
    Select the "file option" --> Open from path --> provide path --> Open.
    path ex: C:\Users\SHIVAAMRUTH UPPALA\OneDrive\Desktop\WeedDetectionSystem\testing_and_detection.
 
-
 ## Performig detection using pre-trained model
-
   
-  * For detection you need weights for network. And these weights files is present in the below link and must be placed in this path into -->WeedDetectionSystem-->testing_and_detection-->data-->weights. 
-
+  * For detection you need weights for network.
+  * These weights file is present in the below link and must be placed in the below mentioned path in your local system :
+  *  -->WeedDetectionSystem-->testing_and_detection-->data-->weights. 
  [weights here](https://drive.google.com/open?id=1-Aam2D-fqnwecbeHwa4rtzxtNjwcDkP6)
-
   * open [Weed_Image_Recognition.ipynb] under WeedDetection-->testing_and_detection-->detection and run each cell for results. 
 
 
