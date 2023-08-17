@@ -41,7 +41,7 @@ We have collected 2000 images containing a diverse representation of both weed a
  
 ## Training:-
  
- * First, git clone the repository and copy all the files from `WeedDetectionSystem` folder and upload it in google drive.
+ * First, git clone the repository and copy all the files from `WeedDetection` folder and upload it in google drive.
 
  * Now, in the drive open the main.ipynb file, where you will find all documentation regarding training the model.
 
