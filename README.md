@@ -70,7 +70,7 @@ We have collected 2000 images containing a diverse representation of both weed a
 
 <br>
 
-## ⤵️ Output:
+### ⤵️ Output:
  * LOSS CURVE:
    
  <p align="center">
@@ -79,6 +79,7 @@ We have collected 2000 images containing a diverse representation of both weed a
 
  <br>
 
+ * Weed Detection:
  <p align="center">
    <img src="https://github.com/ACM40960/project-shiva-46/blob/main/images/image3.jpeg" alt="Weed Detection" width="500"/>
  </p>
