@@ -71,6 +71,7 @@ We have collected 2000 images containing a diverse representation of both weed a
    **Important**: We have already generated the weight file and placed it in the designated [Google Drive link](https://drive.google.com/file/d/1AOxCaQqy_AY33fjcJWxemu5iwIJ4jvC3/view?usp=sharing). This step was taken to minimize the training time required. If you decide not to conduct the training, you can utilize this file. Please be aware that training this model typically takes 6-7 hours.
 
 <br>
+
 ## ⤵️ Output:
 
 * LOSS CURVE
