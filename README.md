@@ -31,7 +31,7 @@ We have collected 2000 images containing a diverse representation of both weed a
   # This Repository is divided into two parts:
   
     1. Training 
-    2. Performig detection using pre train model
+    2. Performig detection 
         - Using jupyter and openCV 
 
 <br>
@@ -57,7 +57,7 @@ We have collected 2000 images containing a diverse representation of both weed a
    * Select the "file option" --> Open from path --> provide path --> Open.
    * path example: C:\Users\SHIVAAMRUTH UPPALA\OneDrive\Desktop\WeedDetectionSystem\testing_and_detection.
 
-## Performig detection using pre-trained model
+## Performig detection:
   
   * For detection you need weights for network.
   * These weights file is present in the below link and must be placed in the below mentioned path in your local system :
