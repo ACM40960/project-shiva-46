@@ -1,8 +1,8 @@
 <p align="center"> AI IMAGE RECOGNITION - WEED DETECTION </p>
 <p align="center"> DINESH ETUKURU 20200242 || SHIVAAMRUTH UPPALA 22201745 </p>
 
-![]
-(https://github.com/ACM40960/project-shiva-46/blob/main/images/weedimg.jpeg)
+![](https://github.com/ACM40960/project-shiva-46/blob/main/images/weedimg.jpeg)
+
 <br>
 
 ## Description:
