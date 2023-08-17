@@ -70,13 +70,26 @@ We have collected 2000 images containing a diverse representation of both weed a
  ### 📜 Note:
    **Important**: We have already generated the weight file and placed it in the designated [Google Drive link](https://drive.google.com/file/d/1AOxCaQqy_AY33fjcJWxemu5iwIJ4jvC3/view?usp=sharing). This step was taken to minimize the training time required. If you decide not to conduct the training, you can utilize this file. Please be aware that training this model typically takes 6-7 hours.
 
+<br>
+### Outputs:
+<p align="center">
+  <img src="https://github.com/ACM40960/project-shiva-46/blob/main/images/image2.jpeg" alt="Weed Detection" width="500"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/ACM40960/project-shiva-46/blob/main/images/image3.jpeg" alt="Weed Detection" width="500"/>
+</p>
+
+<br>
 
  ### 🏁 Conclusion :
 
 🔍 During the training of the model based on the <span style="color: #e74c3c;">Darknet-53</span> architecture, we observed a <span style="color: #27ae60;">low loss curve</span> function. This indicates that the model is <span style="color: #27ae60;">effectively learning</span> from the training data. A low loss curve suggests that the model's predictions are getting closer to the <span style="color: #27ae60;">actual target values</span> (ground truth) as training progresses.
 
 
-### 🔗 References:
+ ### 🔗 References:
 
 1. Redmon, J. (2015, June 8). You Only Look Once: Unified, Real-Time Object Detection. [arXiv:1506.02640](https://arxiv.org/abs/1506.02640).
 2. Wang, C. Y. (2022, July 6). YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors. [arXiv:2207.02696](https://arxiv.org/abs/2207.02696).
