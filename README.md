@@ -70,7 +70,7 @@ We have collected 2000 images containing a diverse representation of both weed a
 
 <br>
 
-### ⤵️ Output:
+### ⤵️ Results:
  * LOSS CURVE:
    
  <p align="center">
