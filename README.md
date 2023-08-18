@@ -63,7 +63,7 @@ We have collected 2000 images containing a diverse representation of both weed a
  </p>
 <br>
 
-### 🔎 2) Performing Detection:
+### 🔎 2) Performing Detection : 
    
    * For detection, you need weights for <span style="color: #e74c3c;">🧠 CNN</span>.
    * These weights file must be placed in the below mentioned path in your local system once the model is trained:
