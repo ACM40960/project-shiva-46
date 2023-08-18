@@ -46,7 +46,7 @@ We have collected 2000 images containing a diverse representation of both weed a
 
    * First, <span style="color: #e74c3c;">🚀 git clone</span> the repository and copy all the files from the `WeedDetection` folder and upload them to Google Drive.
    * Now, in Google Drive, open the `main.ipynb` file, where you will find comprehensive documentation regarding training the model.
-   * Note : The image dataset is placed in the following link. Copy the file and place it in the following path `WeedDetection->WeedDetectionSystem`
+   * Note : The image dataset is placed in the following link. Copy the file and place it in the following path `WeedDetection->WeedDetectionSystem`. (DO NOT UNZIP AFTER PLACING IT)
      [Images-with-bounding-boxes](https://drive.google.com/file/d/1fUV6N-5y4sxw4rigrNEjRuCrm12PpZ0j/view?usp=sharing)
      
 <br>
