@@ -92,6 +92,15 @@ We have collected 2000 images containing a diverse representation of both weed a
  </p>
 <br>
 
+* Metrics for trained Weights:
+ <p align="center">
+  <img src="https://github.com/ACM40960/project-etukurudinesh/blob/main/Image/metrics.png" alt="Weed Detection" width="800"/>
+ </p>
+
+ * Average IOU (Intersection Over Union): 71%   
+ * Mean Average Precision: 77%
+
+
 ### 🔗 References:
 
 1. Redmon, J. (2015, June 8). You Only Look Once: Unified, Real-Time Object Detection. [arXiv:1506.02640](https://arxiv.org/abs/1506.02640).
