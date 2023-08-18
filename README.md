@@ -58,7 +58,6 @@ We have collected 2000 images containing a diverse representation of both weed a
    ## How?
      * Select the "file option" --> Open from path --> provide path --> Open.
      * path example: C:\Users\SHIVAAMRUTH UPPALA\OneDrive\Desktop\WeedDetectionSystem\testing_and_detection.
-     * Weed Detection:
  <p align="center">
    <img src="https://github.com/ACM40960/project-shiva-46/blob/main/images/image4.jpeg" width="500"/>
  </p>
