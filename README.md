@@ -55,9 +55,9 @@ We have collected 2000 images containing a diverse representation of both weed a
 ### 🛠️ Setting up the Environment:
   * First of all you need anaconda, if you don't have click here for the installation. [Anaconda here](https://www.anaconda.com/download)
 
-  * Next download and save the `testing_and_detection` folder to your local system from google drive present under `WeedDetection` folder. 
+  * Next download and save the `testing_and_detection` folder to your local system from google drive located under the folder `WeedDetection`. 
    
- * Open Anaconda launcher and upload the folder `testing_and_detection` here.
+ * Open Anaconda launcher and upload the folder `testing_and_detection`.
    ## How?
      * Select the "file option" --> Open from path --> provide path --> Open.
      * path example: C:\Users\SHIVAAMRUTH UPPALA\OneDrive\Desktop\WeedDetectionSystem\testing_and_detection.
