@@ -7,7 +7,6 @@
 
 In modern agriculture, optimizing crop yield is vital amidst weed-related challenges. We tackle this by innovatively employing <span style="color: #e74c3c;">🧠 CNNs</span> and <span style="color: #e74c3c;">🌌 Darknet</span> to distinguish crops from weeds
 
-
 <br>
 
 <p align="center">
@@ -26,6 +25,8 @@ Develop and optimize a tailored object detection model by seamlessly integrating
 ## 📊 Dataset
 
 We have collected 2000 images containing a diverse representation of both weed and crop. This dataset includes prior information regarding bounding boxes and class labels, recorded within a dedicated text file. This text file provides essential information, including class labels, Normalized coordinates (X and Y), as well as dimensions (Width and Length).
+
+* [DATASET](https://weed-ai.sydney.edu.au/datasets/2c14915b-0827-4b65-9908-d2a6df0d48f3)
 
 
 <br>
