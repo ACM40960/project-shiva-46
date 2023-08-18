@@ -85,6 +85,14 @@ We have collected 2000 images containing a diverse representation of both weed a
  </p>
 <br>
 
+<br>
+
+ * Weed Detection:
+ <p align="center">
+   <img src="https://github.com/ACM40960/project-shiva-46/blob/main/images/image4.jpeg" width="500"/>
+ </p>
+<br>
+
  ### 🏁 Conclusion :
 
 🔍 During the training of the model based on the <span style="color: #e74c3c;">Darknet-53</span> architecture, we observed a <span style="color: #27ae60;">low loss curve</span> function. This indicates that the model is <span style="color: #27ae60;">effectively learning</span> from the training data. A low loss curve suggests that the model's predictions are getting closer to the <span style="color: #27ae60;">actual target values</span> (ground truth) as training progresses.
